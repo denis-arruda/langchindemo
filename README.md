@@ -2,3 +2,7 @@
 
 ## Requirements
 * Java 22
+## Configuration
+* Enviroment variable named "OPENAI_API_KEY" with a secret API key registered in [OpenAI Platform](https://platform.openai.com/api-keys)
+## Usage
+Run and sent a POST request to http://localhost:8080/answer with a JSON body like "{ "question": "qual a formula da agua?"} "
