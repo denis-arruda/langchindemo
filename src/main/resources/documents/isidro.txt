@@ -1,0 +1,19 @@
+Acho que não é preciso dizer que o Professor Isidro é um apaixonado pela profissão né?
+
+Mas sabe como tudo começou? Olha isso aqui:
+
+Este é o CP300, o 1o computador que eu vi na vida!! Minha mãe trabalhava em uma escola que decidiu inovar e montar uma escola de computação com estes equipamentos!! Animaaaaal!!! Eu vi uma pessoa programando em BASIC como desenhar um “emoji” que ocupava a tela inteira (verde com fundo preto). Nesse dia eu disse a mim mesmo: é com isso que quero passar o resto da vida!
+
+Pois bem, minha mãe e meu pai compraram a idéia e eu me matriculei em todos os possíveis cursos que a escola podia oferecer: Basic, DOS, DBaseIII Plus, Clipper, Dataflex, FoxPro, CorelDraw, AutoCAD e o que aparecesse de novidades, estava lá o Isidro pra se matricular.
+
+Muito bem… por conta disso, meu primeiro software de verdade foi feito quando eu estava no ensino médio (o ano era 94, 95) estudando para entrar em Ciência da Computação. Era um sistema de folha de pagamento feito em Clipper Summer 87 (depois vocês pesquisem pra ver como é antigo!!!) que ajudaria minha mãe por longos 10 anos até que ela viria a se aposentar. Esse sistema veio a poupar várias horas de trabalho, porque minha mãe datilografava todos os recibos de pagamentos dos mais de 150 funcionários da escola. Ela levava quase 1 semana para calcular e datilografar tudo. Quando o sistema foi implantado, o trabalho de quase 1 semana reduziu a algumas horas e a impressão a alguns minutos. Era incrível para ela.
+
+Isso me gerou muita satisfação, pois, mesmo sem saber eu entendi que software só é software quando é útil para alguém, caso contrário é apenas um amontoado de linhas de código.
+
+E como bom apaixonado, comecei a querer estudar mais. Fiz graduação, mestrado, doutorado e nunca parei de estudar.
+
+Ser apaixonado pelo que faz é bom? Claro que sim! A paixão é um dos grandes combustíveis que nos permitem iniciar projetos novos, encarar novos desafios, buscar novos conhecimentos e querer aprender sempre mais.
+
+E é aí que mora o problema do apaixonado.
+
+Quando somos efetivamente apaixonados, caímos várias vezes em armadilhas de começar muita coisa, desenvolvê-la pouco e quase nunca entregá-la.
